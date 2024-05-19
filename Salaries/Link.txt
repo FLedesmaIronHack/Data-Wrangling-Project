@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/lorenzovzquez/data-jobs-salaries
+https://www.kaggle.com/datasets/lorenzovzquez/data-jobs-salaries/download?datasetVersionNumber=31 --> this to download
