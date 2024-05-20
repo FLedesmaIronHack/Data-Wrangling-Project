@@ -162,3 +162,6 @@ Exploring these questions would provide a more comprehensive understanding of th
 Links to data sources and Trello:
     - https://www.kaggle.com/datasets/hamzaelbelghiti/data-engineering-jobs-in-the-usa-glassdoor
     - https://www.kaggle.com/datasets/lorenzovzquez/data-jobs-salaries
+
+Link to our Trello board:
+    - https://trello.com/b/ApZEGUtg/week-3-project
